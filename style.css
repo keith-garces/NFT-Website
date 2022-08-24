@@ -253,17 +253,20 @@ justify-content: space-around;
 #sedans_card {
     background-color: hsl(31, 77%, 52%);
     border-radius: 8px;
+    margin-bottom: 10px;
  
 }
 
 #suvs_card {
     background-color: hsl(184, 100%, 22%);
     border-radius: 8px;
+    margin-bottom: 10px;
 }
 
 #luxury_card {
     background-color: hsl(179, 100%, 13%);
     border-radius: 8px;
+    margin-bottom: 10px;
 }
 
 .card img {
